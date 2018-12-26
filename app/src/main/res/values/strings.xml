@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MobileTest</string>
+    <string name="welcome_message">Welcome to Mobile Test for Maniak.</string>
+    <string name="welcome_user">Hello, %1$s!</string>
+    <string name="title_home">Home</string>
+    <string name="title_social">Social</string>
+    <string name="title_logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="required_field">Required field</string>
+    <string name="login_failed">Login failed</string>
+    <string name="sync_failed">Sync failed</string>
+    <string name="no_network">Network not available</string>
+
+</resources>
